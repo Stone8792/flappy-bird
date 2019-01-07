@@ -4,7 +4,6 @@
  * 场景尺寸为素材图片的1/2
  */
 
-
 (function (window) {
 
     var game,//游戏控制器
